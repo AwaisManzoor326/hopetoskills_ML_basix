@@ -1,0 +1,1001 @@
+ID,Name,Age,Gender,Salary,Joining Date,Comments,IsActive_0,IsActive_1
+1,Paul,25,0,90041.86,2017-01-31,Creative,True,False
+2,Paul,31,1,90285.02,2019-05-29,Needs Improvement,True,False
+3,Rachel,30,1,84321.65,2022-12-14,Hardworking,True,False
+4,Bob,45,1,68189.99,2023-09-05,Fast Learner,False,True
+5,Eve,34,1,35428.35,2018-05-19,Dedicated,False,True
+6,Hannah,23,2,33952.28,2021-02-02,Fast Learner,True,False
+7,Oscar,23,0,72692.5,2021-04-02,Needs Improvement,True,False
+8,Tina,37,2,76527.18,2022-04-21,Consistent,False,True
+9,Steve,22,1,90689.75,2021-08-26,Consistent,False,True
+10,Frank,31,2,100513.77,2018-01-12,Consistent,False,True
+11,Eve,58,1,112943.72,2019-08-15,Consistent,True,False
+12,Tina,28,1,102775.25,2021-01-11,Needs Improvement,True,False
+13,Kathy,60,1,50910.22,2022-07-09,Versatile,False,True
+14,Kathy,37,0,107507.61,2018-09-28,Analytical,True,False
+15,Grace,35,0,86338.08,2016-08-15,Logical,True,False
+16,Ivy,44,0,100295.34,2016-12-03,Passionate,False,True
+17,Mona,48,2,77356.14,2018-05-20,Punctual,False,True
+18,Hannah,60,1,113400.25,2023-01-11,Curious,True,False
+19,Eve,49,1,70912.79,2019-07-09,Creative,False,True
+20,Steve,51,0,115556.63,2017-12-26,Great Team Player,True,False
+21,Alice,45,0,77455.86,2024-12-29,Consistent,False,True
+22,Frank,50,0,68869.09,2021-10-17,Creative,True,False
+23,Hannah,55,1,40754.86,2018-06-23,Dedicated,False,True
+24,Quincy,48,0,94014.71,2020-08-14,Great Team Player,True,False
+25,Hannah,43,1,45871.3,2022-11-08,Hardworking,True,False
+26,Leo,56,0,91723.89,2017-01-21,Needs Improvement,False,True
+27,Rachel,31,2,30611.33,2020-10-05,Needs Improvement,True,False
+28,Ivy,60,1,96583.16,2019-07-06,Reliable,False,True
+29,Jack,56,1,67129.22,2021-09-25,Motivated,True,False
+30,Alice,31,2,107876.6,2021-05-28,Enthusiastic,True,False
+31,Alice,21,0,49054.18,2016-10-06,Motivated,True,False
+32,David,35,2,95772.21,2020-01-16,Analytical,True,False
+33,Nancy,55,1,34511.01,2018-10-20,Curious,False,True
+34,David,51,1,56693.27,2021-09-27,Excellent,False,True
+35,Charlie,55,2,50423.68,2022-11-27,Punctual,True,False
+36,Mona,21,0,78665.26,2019-01-23,Enthusiastic,False,True
+37,Nancy,60,2,101273.14,2021-12-17,Dedicated,False,True
+38,Jack,30,1,112397.85,2021-03-24,Dedicated,True,False
+39,Grace,52,2,85437.55,2021-04-04,Innovative,False,True
+40,Grace,23,2,112166.96,2021-08-06,Detail-Oriented,True,False
+41,Paul,43,0,36644.43,2022-05-13,Innovative,False,True
+42,Jack,59,0,39325.47,2022-01-01,Consistent,False,True
+43,Hannah,42,1,105766.15,2024-04-01,Great Team Player,False,True
+44,Paul,51,0,48135.16,2017-04-11,Passionate,False,True
+45,Ivy,49,1,110457.93,2016-11-10,Punctual,True,False
+46,Kathy,60,1,69365.13,2022-11-04,Passionate,True,False
+47,Eve,50,0,95890.1,2015-02-05,Enthusiastic,True,False
+48,Rachel,57,2,54463.23,2022-01-15,Passionate,True,False
+49,Oscar,29,0,96213.3,2016-05-29,Excellent,False,True
+50,Alice,51,2,75330.43,2018-12-09,Versatile,False,True
+51,Mona,50,0,49891.34,2018-12-25,Fast Learner,True,False
+52,Oscar,58,2,31823.61,2022-03-23,Punctual,False,True
+53,Kathy,39,2,84934.8,2024-01-16,Detail-Oriented,True,False
+54,Kathy,35,2,95320.43,2015-05-19,Versatile,True,False
+55,Steve,45,2,101887.93,2015-01-19,Reliable,True,False
+56,Tina,28,0,53590.93,2015-08-08,Versatile,True,False
+57,Steve,21,0,54050.9,2022-08-09,Punctual,True,False
+58,Eve,46,2,111331.13,2015-05-10,Creative,False,True
+59,Oscar,23,0,114324.36,2018-08-13,Enthusiastic,False,True
+60,Steve,49,0,119841.28,2023-01-01,Versatile,True,False
+61,Rachel,54,0,72422.75,2021-07-09,Versatile,False,True
+62,Hannah,54,2,111173.37,2022-03-12,Fast Learner,False,True
+63,Steve,35,1,36303.36,2024-07-30,Consistent,False,True
+64,Eve,45,2,67167.03,2019-09-04,Dedicated,True,False
+65,Mona,48,0,99450.04,2015-07-29,Detail-Oriented,True,False
+66,Bob,41,0,107717.94,2024-10-04,Innovative,False,True
+67,Mona,33,1,61242.09,2024-12-02,Excellent,False,True
+68,Grace,22,2,40186.19,2021-01-18,Hardworking,False,True
+69,Quincy,49,0,62555.1,2024-12-20,Versatile,True,False
+70,Frank,40,0,109461.11,2019-03-28,Passionate,False,True
+71,Leo,52,2,43479.93,2021-11-07,Excellent,False,True
+72,Steve,41,0,105389.75,2017-12-01,Motivated,True,False
+73,Grace,24,0,75943.94,2018-02-26,Logical,False,True
+74,Paul,30,1,30358.24,2021-08-04,Reliable,False,True
+75,Charlie,28,2,53001.66,2016-08-27,Hardworking,True,False
+76,David,30,1,67038.85,2021-08-03,Diligent,True,False
+77,Eve,34,0,51846.61,2021-07-02,Reliable,True,False
+78,Tina,42,0,63755.89,2023-01-23,Reliable,True,False
+79,Kathy,46,2,90900.96,2016-11-20,Reliable,True,False
+80,Charlie,20,0,47065.58,2017-03-05,Enthusiastic,False,True
+81,Grace,44,1,67904.73,2023-10-03,Diligent,False,True
+82,Mona,56,1,71081.11,2022-04-05,Creative,False,True
+83,Oscar,29,1,101040.12,2024-08-05,Hardworking,True,False
+84,Grace,47,1,103293.44,2018-08-27,Passionate,False,True
+85,Rachel,43,2,40207.11,2015-08-29,Excellent,True,False
+86,Leo,22,1,66441.35,2019-11-27,Hardworking,False,True
+87,Hannah,42,0,89359.27,2018-04-02,Logical,False,True
+88,Kathy,57,2,37108.17,2020-07-27,Logical,False,True
+89,Quincy,53,2,96277.9,2019-11-11,Great Team Player,True,False
+90,Rachel,52,0,61666.86,2021-11-16,Curious,False,True
+91,Frank,47,2,55085.61,2021-05-11,Dedicated,False,True
+92,Steve,37,0,104617.47,2023-03-07,Excellent,True,False
+93,Leo,49,1,95531.11,2019-01-12,Fast Learner,True,False
+94,Quincy,24,2,65212.13,2023-04-26,Curious,False,True
+95,Hannah,49,0,68276.26,2016-03-16,Passionate,False,True
+96,Hannah,48,0,86471.68,2015-04-07,Great Team Player,False,True
+97,Steve,49,2,108104.63,2019-07-29,Versatile,True,False
+98,Rachel,46,0,107555.14,2017-12-12,Curious,False,True
+99,Tina,34,2,68671.07,2023-11-15,Fast Learner,True,False
+100,David,56,2,63658.96,2024-10-31,Logical,False,True
+101,Frank,46,1,31793.86,2023-02-09,Punctual,True,False
+102,Eve,41,2,41130.59,2021-06-10,Punctual,True,False
+103,Oscar,46,1,81608.83,2022-04-02,Enthusiastic,False,True
+104,Paul,48,1,108848.62,2015-11-22,Dedicated,False,True
+105,Steve,37,2,113880.59,2023-11-11,Detail-Oriented,False,True
+106,Jack,29,1,81496.52,2020-09-23,Excellent,False,True
+107,Steve,28,1,51983.4,2024-01-05,Needs Improvement,False,True
+108,Charlie,39,0,82308.27,2023-10-20,Versatile,True,False
+109,Charlie,57,1,31126.62,2016-02-08,Hardworking,True,False
+110,Paul,32,0,84928.83,2022-05-12,Curious,False,True
+111,Tina,37,1,66702.71,2018-09-13,Creative,True,False
+112,Steve,43,2,119726.51,2020-02-24,Excellent,False,True
+113,Ivy,58,2,77022.91,2015-03-03,Passionate,False,True
+114,David,52,1,110762.74,2016-10-16,Detail-Oriented,True,False
+115,Jack,55,0,76466.69,2020-03-23,Passionate,True,False
+116,Oscar,58,1,48208.57,2015-10-02,Passionate,True,False
+117,Steve,41,0,97559.97,2020-01-06,Great Team Player,False,True
+118,Oscar,28,2,88479.02,2015-02-01,Versatile,True,False
+119,Charlie,55,2,95390.36,2019-05-20,Passionate,True,False
+120,Jack,25,0,98904.78,2022-03-05,Innovative,True,False
+121,Kathy,44,2,36831.36,2018-01-24,Needs Improvement,False,True
+122,Frank,50,1,72249.0,2021-10-30,Passionate,True,False
+123,Ivy,32,2,114662.05,2015-01-09,Consistent,True,False
+124,Bob,47,0,61744.59,2019-02-25,Great Team Player,False,True
+125,Paul,24,1,68675.71,2015-08-08,Fast Learner,False,True
+126,Quincy,59,2,112821.76,2015-05-30,Curious,False,True
+127,David,24,1,103545.68,2021-05-24,Fast Learner,False,True
+128,Nancy,60,2,87254.37,2017-05-18,Motivated,False,True
+129,Charlie,60,0,88888.65,2022-10-18,Curious,False,True
+130,Grace,50,1,102641.93,2018-09-22,Consistent,True,False
+131,Paul,31,2,88904.89,2019-03-28,Logical,False,True
+132,Nancy,26,1,112266.19,2017-02-01,Punctual,True,False
+133,Hannah,24,0,46374.47,2023-03-20,Versatile,True,False
+134,Grace,41,1,97881.99,2018-03-15,Diligent,True,False
+135,Charlie,58,0,83593.3,2020-01-23,Reliable,True,False
+136,Jack,56,1,33086.06,2021-07-12,Creative,False,True
+137,Charlie,58,2,106750.44,2024-12-29,Detail-Oriented,False,True
+138,Ivy,57,2,97218.55,2020-01-04,Great Team Player,True,False
+139,Steve,30,1,34777.42,2021-01-10,Innovative,False,True
+140,Frank,39,1,92169.22,2024-11-26,Analytical,False,True
+141,Hannah,44,0,81143.85,2021-09-09,Reliable,True,False
+142,Jack,51,2,79962.06,2022-10-27,Creative,True,False
+143,Rachel,53,0,92768.09,2021-10-28,Detail-Oriented,True,False
+144,Jack,51,0,43328.44,2017-02-07,Punctual,True,False
+145,Rachel,25,1,57054.72,2015-03-08,Punctual,True,False
+146,Quincy,25,1,86920.55,2017-01-23,Detail-Oriented,False,True
+147,Rachel,37,0,54476.82,2020-06-29,Curious,False,True
+148,Charlie,42,1,48889.55,2020-04-29,Logical,True,False
+149,Kathy,57,0,102948.6,2023-12-20,Logical,False,True
+150,Grace,31,2,57973.75,2020-09-14,Dedicated,True,False
+151,Eve,23,1,98412.88,2024-07-11,Versatile,True,False
+152,Hannah,46,1,70556.4,2021-10-27,Passionate,False,True
+153,Hannah,20,0,56873.14,2019-05-11,Needs Improvement,False,True
+154,Ivy,59,1,49556.36,2016-02-09,Punctual,True,False
+155,Charlie,26,2,103577.53,2020-07-01,Curious,False,True
+156,Leo,53,2,115233.69,2019-10-20,Versatile,False,True
+157,Nancy,53,2,111527.59,2016-01-06,Punctual,True,False
+158,Oscar,55,1,98391.72,2015-05-19,Versatile,True,False
+159,David,60,1,41579.27,2019-01-16,Analytical,False,True
+160,Ivy,29,1,63347.44,2019-12-05,Detail-Oriented,True,False
+161,Jack,40,1,109080.05,2022-09-29,Excellent,True,False
+162,Kathy,23,1,46685.69,2017-04-14,Creative,False,True
+163,Rachel,43,0,39384.77,2022-11-16,Detail-Oriented,True,False
+164,Steve,60,2,48227.17,2019-12-09,Innovative,False,True
+165,David,45,2,95539.17,2017-04-11,Analytical,True,False
+166,Oscar,26,2,33428.96,2018-06-08,Versatile,True,False
+167,Rachel,36,2,53789.51,2017-03-29,Motivated,True,False
+168,Ivy,56,0,104832.38,2020-04-15,Fast Learner,False,True
+169,Alice,52,2,73754.21,2017-01-20,Excellent,False,True
+170,David,47,0,119435.93,2020-01-11,Punctual,True,False
+171,Jack,53,1,71927.06,2017-12-17,Creative,False,True
+172,Kathy,51,0,104475.21,2018-03-13,Innovative,False,True
+173,Kathy,23,0,93591.54,2020-04-01,Consistent,False,True
+174,Bob,35,2,57021.8,2020-10-06,Needs Improvement,True,False
+175,Oscar,27,1,116157.22,2019-07-28,Punctual,False,True
+176,David,25,2,79945.77,2024-04-23,Analytical,False,True
+177,Quincy,49,1,33824.15,2023-06-28,Motivated,False,True
+178,Paul,54,2,30023.46,2019-12-21,Fast Learner,False,True
+179,Ivy,55,1,66990.24,2016-09-12,Detail-Oriented,True,False
+180,Ivy,37,2,42510.36,2018-10-15,Diligent,True,False
+181,Steve,21,0,82868.39,2019-10-08,Versatile,True,False
+182,Alice,23,0,52298.17,2015-03-04,Dedicated,False,True
+183,Rachel,25,2,54102.25,2019-03-26,Motivated,True,False
+184,Frank,46,2,81966.02,2024-11-26,Versatile,True,False
+185,Steve,22,0,40389.58,2017-03-25,Logical,True,False
+186,Rachel,58,2,116901.14,2015-04-20,Excellent,False,True
+187,Kathy,40,2,52192.21,2023-04-29,Punctual,True,False
+188,Tina,53,2,47728.22,2023-06-01,Detail-Oriented,True,False
+189,Kathy,23,2,102468.44,2015-02-17,Innovative,False,True
+190,Eve,40,0,74030.08,2020-09-16,Analytical,False,True
+191,Hannah,38,2,37527.74,2017-05-21,Versatile,False,True
+192,Grace,55,1,90548.9,2015-05-11,Hardworking,True,False
+193,Rachel,42,2,62026.74,2020-03-30,Fast Learner,False,True
+194,Jack,23,2,44663.92,2022-03-15,Creative,False,True
+195,David,58,1,69728.3,2019-10-31,Great Team Player,False,True
+196,Charlie,45,0,32149.21,2022-10-23,Fast Learner,False,True
+197,Charlie,21,0,111318.73,2016-09-05,Passionate,False,True
+198,David,58,1,99686.58,2015-06-03,Detail-Oriented,False,True
+199,Tina,34,2,99963.28,2017-11-26,Curious,False,True
+200,Tina,44,0,65449.33,2018-05-19,Detail-Oriented,False,True
+201,Hannah,52,1,31012.67,2016-01-27,Motivated,True,False
+202,Hannah,27,2,44835.4,2024-05-08,Dedicated,False,True
+203,Rachel,33,0,107690.25,2022-06-27,Logical,True,False
+204,Oscar,36,2,84303.29,2022-06-02,Passionate,False,True
+205,Hannah,34,2,91176.97,2019-01-28,Great Team Player,True,False
+206,Paul,23,2,94828.68,2018-01-29,Hardworking,False,True
+207,Tina,45,2,106110.91,2024-11-27,Enthusiastic,True,False
+208,Kathy,38,1,109396.51,2020-09-09,Analytical,False,True
+209,Ivy,29,2,107160.69,2019-06-02,Diligent,False,True
+210,Rachel,50,2,117626.89,2018-01-08,Innovative,False,True
+211,David,58,0,100099.47,2019-01-10,Fast Learner,True,False
+212,Kathy,53,0,41674.9,2018-01-03,Motivated,False,True
+213,Grace,41,0,64074.67,2020-11-03,Needs Improvement,False,True
+214,Jack,58,1,64456.96,2015-12-25,Creative,True,False
+215,Mona,59,2,65030.05,2018-11-07,Versatile,False,True
+216,Ivy,45,1,90918.58,2018-07-18,Hardworking,False,True
+217,Jack,51,2,45780.55,2015-01-15,Versatile,False,True
+218,David,34,1,75262.19,2020-06-23,Motivated,False,True
+219,Grace,21,2,59087.08,2015-08-31,Excellent,True,False
+220,Bob,36,1,79602.87,2016-11-24,Logical,True,False
+221,Bob,32,2,36429.3,2024-08-02,Analytical,True,False
+222,Kathy,24,0,56117.04,2022-04-24,Creative,False,True
+223,Nancy,45,1,47545.0,2015-11-22,Hardworking,False,True
+224,Mona,50,0,53998.32,2020-01-22,Excellent,True,False
+225,Rachel,48,0,46477.92,2020-07-13,Enthusiastic,False,True
+226,Eve,42,2,72710.24,2019-05-03,Dedicated,True,False
+227,Quincy,54,0,103765.62,2022-02-13,Fast Learner,False,True
+228,Bob,60,0,36769.78,2024-11-18,Punctual,True,False
+229,Quincy,22,2,108258.86,2017-12-21,Innovative,True,False
+230,Kathy,52,0,66784.98,2019-09-03,Diligent,True,False
+231,Oscar,32,1,119349.61,2023-03-25,Diligent,True,False
+232,Jack,40,0,58671.18,2019-04-18,Hardworking,True,False
+233,Steve,36,2,81557.42,2018-12-27,Punctual,False,True
+234,Ivy,52,1,114634.72,2024-10-31,Enthusiastic,True,False
+235,Nancy,35,2,71734.48,2021-02-20,Logical,False,True
+236,Tina,37,2,109299.86,2021-10-26,Enthusiastic,False,True
+237,Eve,47,0,55279.08,2022-06-29,Excellent,False,True
+238,Leo,20,0,52566.07,2018-12-31,Punctual,True,False
+239,David,33,2,84584.56,2016-03-20,Versatile,True,False
+240,Bob,49,1,75434.25,2016-10-05,Needs Improvement,True,False
+241,Steve,28,0,94843.81,2023-01-31,Passionate,True,False
+242,Jack,34,0,61025.53,2015-12-03,Creative,True,False
+243,Steve,37,2,44253.09,2016-07-27,Consistent,True,False
+244,Paul,29,2,48292.91,2024-04-06,Creative,True,False
+245,Kathy,56,0,35067.83,2022-07-09,Analytical,True,False
+246,Kathy,39,1,51852.37,2015-03-15,Analytical,False,True
+247,Jack,38,1,40318.33,2016-04-12,Analytical,False,True
+248,Kathy,44,0,41816.48,2019-10-02,Analytical,True,False
+249,Quincy,59,0,56181.6,2020-07-05,Enthusiastic,True,False
+250,Eve,39,2,36282.92,2020-05-05,Diligent,False,True
+251,Paul,60,2,101985.75,2018-03-19,Creative,False,True
+252,Mona,49,1,74405.49,2017-11-09,Excellent,True,False
+253,Paul,24,0,89012.27,2016-11-06,Needs Improvement,True,False
+254,Hannah,48,1,61291.76,2021-07-31,Diligent,False,True
+255,Kathy,57,0,74894.61,2021-06-15,Needs Improvement,False,True
+256,Bob,43,0,43644.33,2020-05-23,Diligent,True,False
+257,Charlie,32,0,113639.28,2018-11-30,Needs Improvement,False,True
+258,Nancy,59,0,81778.42,2015-05-12,Versatile,True,False
+259,Alice,36,0,88023.15,2017-05-06,Curious,True,False
+260,Eve,57,2,84893.78,2016-07-17,Innovative,True,False
+261,Mona,32,2,64327.42,2023-12-12,Innovative,True,False
+262,Steve,31,1,83272.11,2023-06-03,Consistent,True,False
+263,Quincy,33,2,82204.93,2022-02-02,Hardworking,True,False
+264,Jack,34,1,67078.54,2016-05-26,Passionate,False,True
+265,Jack,45,2,91355.33,2024-05-02,Diligent,True,False
+266,Steve,48,0,67318.03,2019-11-17,Versatile,True,False
+267,Rachel,54,1,118796.97,2020-10-16,Diligent,True,False
+268,Eve,29,0,81403.5,2019-12-29,Fast Learner,False,True
+269,Hannah,54,2,75495.54,2019-01-26,Diligent,False,True
+270,Nancy,57,2,91815.11,2017-04-10,Detail-Oriented,False,True
+271,David,25,1,64184.82,2019-08-08,Reliable,True,False
+272,Grace,25,2,70006.97,2016-09-07,Passionate,False,True
+273,Frank,46,2,65077.6,2019-02-13,Consistent,True,False
+274,Quincy,41,1,107407.98,2015-10-07,Hardworking,False,True
+275,Bob,54,0,38790.04,2015-01-12,Curious,True,False
+276,Steve,54,1,102573.33,2023-11-16,Logical,False,True
+277,Mona,51,2,84703.24,2015-06-06,Hardworking,True,False
+278,Quincy,30,0,105478.94,2024-09-17,Versatile,True,False
+279,Kathy,39,2,49942.99,2016-01-24,Innovative,True,False
+280,David,43,2,99973.69,2018-11-20,Punctual,True,False
+281,David,58,0,111768.9,2016-11-20,Curious,True,False
+282,Kathy,29,0,78090.99,2021-04-20,Versatile,False,True
+283,Jack,22,1,77582.37,2017-11-21,Consistent,True,False
+284,Nancy,21,0,97681.07,2023-09-02,Innovative,False,True
+285,Steve,32,1,90962.11,2016-04-04,Detail-Oriented,True,False
+286,David,28,0,32053.92,2023-06-16,Enthusiastic,True,False
+287,Oscar,49,2,73862.4,2020-07-25,Hardworking,False,True
+288,Eve,36,1,32205.94,2022-09-24,Enthusiastic,True,False
+289,Nancy,59,1,62225.55,2024-10-11,Enthusiastic,False,True
+290,Eve,29,2,113224.22,2018-05-12,Great Team Player,False,True
+291,Grace,58,0,94981.41,2023-05-07,Motivated,False,True
+292,Bob,46,2,31662.88,2018-10-30,Detail-Oriented,True,False
+293,Charlie,41,0,68792.31,2018-05-14,Curious,False,True
+294,Rachel,55,1,68021.72,2024-03-15,Innovative,True,False
+295,Oscar,51,2,55321.24,2019-01-13,Innovative,False,True
+296,Kathy,30,0,98932.47,2017-10-03,Diligent,True,False
+297,Eve,40,1,43560.2,2017-06-11,Consistent,False,True
+298,Grace,21,2,77323.07,2024-12-07,Innovative,False,True
+299,Quincy,30,1,117247.53,2024-03-19,Great Team Player,True,False
+300,Oscar,44,2,99099.58,2020-02-28,Curious,False,True
+301,Grace,37,2,85373.51,2019-12-01,Enthusiastic,True,False
+302,Grace,24,0,30201.24,2019-03-12,Consistent,True,False
+303,Leo,35,1,44684.6,2020-10-01,Needs Improvement,True,False
+304,Rachel,31,2,90775.13,2016-08-08,Needs Improvement,True,False
+305,Ivy,34,2,89985.56,2015-09-05,Analytical,True,False
+306,Frank,44,0,71397.63,2017-09-25,Diligent,True,False
+307,Mona,29,1,96080.96,2024-11-11,Diligent,False,True
+308,Leo,20,2,88288.09,2022-06-21,Motivated,True,False
+309,Quincy,36,1,96447.21,2022-01-16,Passionate,False,True
+310,Nancy,21,1,94550.46,2022-01-03,Motivated,False,True
+311,Charlie,46,0,62178.65,2023-11-03,Reliable,False,True
+312,Frank,25,1,104426.01,2015-06-26,Passionate,False,True
+313,Bob,33,1,48516.53,2021-08-13,Hardworking,True,False
+314,Oscar,51,1,115522.49,2022-02-07,Curious,False,True
+315,Mona,38,0,92788.46,2016-06-02,Diligent,True,False
+316,Rachel,28,0,42051.81,2019-08-10,Punctual,True,False
+317,Steve,40,2,77537.19,2015-12-19,Fast Learner,True,False
+318,Rachel,54,1,92543.08,2023-05-06,Passionate,False,True
+319,Bob,23,2,78682.33,2020-08-05,Analytical,False,True
+320,Ivy,25,0,40192.48,2023-02-14,Fast Learner,True,False
+321,Quincy,47,2,56506.32,2018-05-26,Fast Learner,True,False
+322,Jack,21,2,107059.14,2021-11-18,Creative,True,False
+323,Kathy,20,1,81810.88,2023-07-13,Motivated,False,True
+324,Rachel,27,1,65743.38,2021-07-28,Passionate,False,True
+325,Ivy,36,0,106210.94,2020-02-28,Curious,True,False
+326,Rachel,21,1,60604.11,2020-03-07,Diligent,False,True
+327,Grace,56,2,98336.8,2021-05-23,Punctual,False,True
+328,Bob,59,0,63687.88,2020-10-06,Fast Learner,True,False
+329,Alice,29,2,84810.01,2021-11-13,Logical,True,False
+330,Eve,29,1,43786.87,2018-01-10,Great Team Player,True,False
+331,Tina,56,1,103151.45,2021-07-21,Analytical,True,False
+332,Grace,35,0,48817.36,2024-04-04,Passionate,True,False
+333,Nancy,46,0,53384.98,2022-01-14,Hardworking,False,True
+334,Quincy,52,0,54905.14,2020-12-13,Diligent,True,False
+335,Leo,58,2,77865.51,2019-09-15,Passionate,False,True
+336,Kathy,47,1,84105.66,2017-07-08,Versatile,False,True
+337,Rachel,32,0,119158.86,2021-09-24,Diligent,False,True
+338,Quincy,51,0,93539.01,2021-04-14,Enthusiastic,True,False
+339,Mona,21,2,68801.31,2022-12-23,Diligent,True,False
+340,Hannah,56,2,32298.89,2019-05-13,Diligent,False,True
+341,Paul,44,1,94315.04,2015-03-29,Motivated,True,False
+342,Rachel,33,0,108055.6,2023-03-12,Dedicated,False,True
+343,Rachel,39,2,52787.19,2018-12-03,Consistent,False,True
+344,Mona,42,2,45121.67,2015-09-25,Fast Learner,False,True
+345,David,59,1,30226.44,2023-12-02,Innovative,True,False
+346,Charlie,32,1,94838.64,2018-07-22,Dedicated,False,True
+347,Oscar,56,0,35305.09,2020-12-23,Curious,True,False
+348,Grace,58,0,53525.88,2023-04-08,Great Team Player,True,False
+349,Alice,26,0,74866.74,2017-04-28,Great Team Player,True,False
+350,Steve,22,0,80601.49,2016-06-26,Excellent,False,True
+351,Grace,21,2,80981.08,2022-04-21,Punctual,True,False
+352,Tina,20,1,76731.61,2017-12-18,Dedicated,True,False
+353,Hannah,23,1,58724.97,2017-02-05,Diligent,False,True
+354,Bob,34,0,59102.23,2016-03-15,Consistent,True,False
+355,Charlie,31,2,42413.55,2020-07-05,Reliable,True,False
+356,Charlie,35,2,54185.75,2016-08-14,Great Team Player,True,False
+357,Rachel,31,2,41007.68,2021-12-22,Punctual,False,True
+358,Ivy,45,0,76742.82,2020-07-17,Versatile,False,True
+359,Paul,51,1,37883.96,2018-05-26,Innovative,False,True
+360,Steve,51,1,49255.34,2018-01-01,Innovative,True,False
+361,Mona,52,0,119880.78,2022-05-19,Logical,False,True
+362,Mona,56,1,84731.65,2017-04-09,Great Team Player,True,False
+363,Paul,23,2,58335.72,2021-03-15,Enthusiastic,True,False
+364,Oscar,37,0,30771.5,2023-01-06,Motivated,False,True
+365,Kathy,58,2,71694.22,2018-09-20,Creative,False,True
+366,Jack,30,2,82077.62,2021-03-15,Enthusiastic,True,False
+367,Oscar,34,1,80613.53,2019-06-05,Creative,True,False
+368,Frank,48,2,76990.9,2021-08-18,Needs Improvement,False,True
+369,Kathy,33,1,41336.5,2022-12-15,Motivated,False,True
+370,Steve,33,2,79728.19,2018-10-12,Consistent,True,False
+371,David,59,2,105741.69,2021-02-24,Innovative,False,True
+372,Leo,32,2,62713.99,2022-12-09,Motivated,False,True
+373,Alice,45,2,39037.84,2024-03-23,Dedicated,False,True
+374,Frank,33,1,70076.67,2017-01-05,Creative,False,True
+375,Alice,41,1,34216.41,2024-08-14,Innovative,False,True
+376,David,51,0,40638.52,2020-10-14,Punctual,True,False
+377,Quincy,50,0,118253.57,2016-06-07,Innovative,True,False
+378,Leo,42,2,58931.23,2018-07-12,Needs Improvement,True,False
+379,David,46,1,83378.9,2022-01-04,Diligent,True,False
+380,Charlie,20,2,45937.47,2019-01-19,Consistent,True,False
+381,David,49,2,63392.71,2024-11-15,Passionate,False,True
+382,Leo,54,1,74219.92,2022-06-30,Analytical,True,False
+383,Tina,36,0,66806.55,2015-03-12,Innovative,True,False
+384,Alice,44,0,118027.36,2017-10-25,Curious,True,False
+385,Tina,42,1,83080.43,2021-05-25,Creative,False,True
+386,Eve,28,0,43646.72,2015-04-28,Passionate,True,False
+387,Bob,42,0,117202.01,2023-02-10,Innovative,False,True
+388,Mona,48,0,102574.11,2017-07-08,Enthusiastic,False,True
+389,Quincy,24,0,67609.35,2016-07-09,Hardworking,True,False
+390,Mona,55,1,60442.23,2019-04-18,Motivated,True,False
+391,Mona,20,0,113471.55,2015-04-08,Versatile,False,True
+392,Oscar,34,0,57260.12,2017-05-02,Enthusiastic,True,False
+393,Tina,50,0,100987.51,2016-06-14,Needs Improvement,True,False
+394,David,43,1,58677.11,2022-05-07,Needs Improvement,False,True
+395,Jack,44,0,97748.51,2017-03-03,Enthusiastic,False,True
+396,Steve,20,0,107794.77,2020-03-04,Innovative,True,False
+397,Ivy,56,2,101138.08,2016-05-05,Analytical,False,True
+398,Alice,33,0,58302.53,2019-05-24,Innovative,True,False
+399,Frank,32,1,34061.69,2015-01-03,Diligent,True,False
+400,Mona,55,2,50870.09,2018-01-13,Great Team Player,False,True
+401,Oscar,47,2,116044.99,2017-09-21,Passionate,True,False
+402,Hannah,49,2,116449.0,2017-11-05,Dedicated,True,False
+403,Bob,54,2,94225.59,2019-07-24,Hardworking,True,False
+404,Leo,56,1,66803.56,2015-08-20,Enthusiastic,True,False
+405,Jack,43,1,72826.55,2017-04-07,Curious,False,True
+406,Mona,27,1,114070.88,2016-08-15,Hardworking,True,False
+407,Mona,40,1,79223.4,2017-11-06,Creative,True,False
+408,Frank,58,2,39038.8,2020-08-17,Versatile,True,False
+409,Oscar,57,1,109846.67,2018-02-19,Fast Learner,True,False
+410,Leo,58,0,54710.71,2017-05-27,Creative,False,True
+411,Kathy,51,0,116864.26,2021-01-10,Punctual,False,True
+412,Hannah,20,1,33919.86,2015-01-04,Motivated,True,False
+413,Paul,38,1,81857.75,2022-10-20,Logical,True,False
+414,Steve,50,2,48100.01,2020-03-20,Needs Improvement,False,True
+415,Quincy,33,1,91213.12,2020-07-29,Creative,False,True
+416,Rachel,32,0,55909.75,2019-06-06,Excellent,False,True
+417,Steve,25,2,83054.65,2016-09-21,Great Team Player,False,True
+418,Paul,37,1,83534.19,2018-04-27,Punctual,False,True
+419,Bob,31,1,54608.01,2015-08-12,Enthusiastic,True,False
+420,Rachel,51,1,78047.78,2018-07-07,Curious,True,False
+421,Alice,43,1,73239.23,2021-12-10,Logical,True,False
+422,Nancy,38,1,89776.6,2015-12-20,Dedicated,True,False
+423,Alice,43,1,45290.45,2023-04-18,Dedicated,True,False
+424,Quincy,34,1,90520.63,2020-11-15,Motivated,True,False
+425,Jack,48,0,51446.81,2023-01-19,Hardworking,False,True
+426,David,23,0,102280.8,2022-06-01,Fast Learner,True,False
+427,Bob,42,0,58052.73,2017-09-15,Curious,True,False
+428,Leo,40,0,76536.5,2015-01-08,Enthusiastic,True,False
+429,Hannah,54,0,87943.0,2021-02-17,Consistent,True,False
+430,Tina,47,1,87512.41,2018-10-08,Innovative,False,True
+431,Charlie,47,0,84912.36,2022-08-29,Excellent,True,False
+432,Tina,59,1,43238.65,2018-08-26,Detail-Oriented,True,False
+433,Rachel,58,1,56271.7,2024-08-09,Analytical,True,False
+434,Jack,58,0,101535.33,2018-11-07,Diligent,True,False
+435,Oscar,50,0,49660.22,2018-07-13,Creative,False,True
+436,Charlie,50,0,76917.22,2023-08-27,Enthusiastic,False,True
+437,Charlie,54,2,30689.53,2018-11-07,Enthusiastic,False,True
+438,Eve,24,0,78769.93,2022-04-22,Excellent,False,True
+439,Hannah,56,0,110620.78,2024-06-23,Dedicated,False,True
+440,Oscar,33,2,104759.66,2018-11-18,Innovative,False,True
+441,Frank,20,0,118176.83,2016-06-30,Passionate,True,False
+442,Nancy,44,1,101416.35,2020-07-23,Passionate,True,False
+443,Alice,32,0,87592.3,2015-04-26,Creative,True,False
+444,Nancy,50,0,31201.68,2018-12-21,Logical,False,True
+445,Charlie,50,0,103275.45,2019-04-12,Excellent,True,False
+446,David,47,1,79272.33,2021-01-17,Logical,False,True
+447,Quincy,60,1,31546.96,2024-01-04,Excellent,False,True
+448,Mona,45,1,114920.81,2023-10-06,Logical,True,False
+449,Jack,27,1,94819.62,2024-12-05,Hardworking,False,True
+450,Grace,47,0,108909.96,2016-08-09,Dedicated,False,True
+451,Hannah,25,1,97851.61,2023-09-03,Enthusiastic,False,True
+452,Alice,38,2,83437.6,2015-08-20,Curious,True,False
+453,Bob,36,1,80404.06,2020-06-15,Motivated,True,False
+454,Grace,45,1,83315.87,2018-12-02,Motivated,True,False
+455,Tina,30,0,44787.32,2024-06-30,Consistent,True,False
+456,Quincy,33,1,110262.93,2015-04-11,Great Team Player,False,True
+457,Ivy,43,1,42159.13,2023-05-20,Needs Improvement,False,True
+458,Steve,25,0,44384.58,2022-08-06,Needs Improvement,True,False
+459,Paul,40,2,57761.5,2022-10-23,Dedicated,False,True
+460,Eve,21,1,118171.64,2017-11-23,Consistent,False,True
+461,Tina,57,1,98992.85,2015-01-22,Detail-Oriented,False,True
+462,Bob,28,1,105046.84,2018-06-27,Fast Learner,True,False
+463,Alice,51,0,67071.49,2020-07-16,Excellent,True,False
+464,Quincy,20,2,48387.34,2016-10-13,Analytical,False,True
+465,Quincy,51,1,67233.47,2023-11-09,Diligent,False,True
+466,Tina,26,0,94238.86,2024-10-12,Detail-Oriented,False,True
+467,Eve,58,1,46216.0,2023-08-17,Diligent,False,True
+468,Ivy,39,0,92761.1,2020-02-29,Dedicated,False,True
+469,Oscar,26,2,62513.78,2020-08-05,Needs Improvement,False,True
+470,Nancy,27,0,109216.77,2019-07-21,Logical,False,True
+471,Rachel,52,2,114229.25,2023-01-29,Diligent,False,True
+472,Charlie,56,0,87224.5,2016-06-29,Curious,False,True
+473,Charlie,29,1,108016.39,2022-08-08,Dedicated,False,True
+474,Alice,42,0,53923.22,2016-05-22,Enthusiastic,False,True
+475,Quincy,50,0,55389.28,2021-10-30,Hardworking,True,False
+476,David,51,1,86280.12,2017-11-20,Consistent,False,True
+477,Grace,42,0,38445.39,2022-11-14,Dedicated,False,True
+478,Steve,40,2,42779.64,2017-06-30,Analytical,False,True
+479,Grace,26,2,54740.08,2017-05-06,Logical,False,True
+480,David,31,0,92793.24,2015-11-27,Great Team Player,False,True
+481,Grace,38,1,114487.43,2018-08-05,Logical,True,False
+482,Charlie,30,2,86875.1,2021-03-13,Motivated,False,True
+483,Nancy,32,0,67468.14,2019-02-15,Diligent,True,False
+484,David,20,2,33184.64,2021-06-26,Detail-Oriented,True,False
+485,Steve,37,0,107959.34,2016-07-15,Needs Improvement,False,True
+486,Jack,51,1,86532.62,2020-11-12,Motivated,False,True
+487,Eve,39,2,92508.01,2024-09-27,Curious,False,True
+488,Eve,33,1,94669.07,2024-12-17,Creative,False,True
+489,Paul,51,0,99986.93,2019-11-28,Reliable,False,True
+490,Hannah,56,0,73692.25,2021-11-12,Diligent,True,False
+491,Alice,27,1,70662.49,2023-07-01,Enthusiastic,False,True
+492,Jack,26,0,78521.21,2019-08-29,Fast Learner,True,False
+493,Bob,35,1,103418.3,2016-05-18,Fast Learner,False,True
+494,Kathy,49,1,71346.47,2024-09-04,Curious,True,False
+495,Quincy,28,2,38329.95,2022-02-04,Passionate,False,True
+496,David,51,0,71331.18,2023-05-31,Punctual,True,False
+497,Leo,30,2,86471.96,2020-05-18,Reliable,False,True
+498,Charlie,35,1,71984.79,2018-12-03,Analytical,False,True
+499,Tina,48,2,50919.15,2019-07-17,Great Team Player,False,True
+500,Mona,50,1,49243.17,2018-11-28,Excellent,False,True
+501,Paul,52,2,72231.63,2023-07-03,Detail-Oriented,True,False
+502,Jack,43,2,88385.99,2021-09-27,Excellent,True,False
+503,Frank,54,0,58823.88,2016-11-22,Versatile,True,False
+504,Ivy,54,0,84607.57,2022-11-24,Creative,False,True
+505,Mona,29,1,62545.92,2018-09-01,Reliable,False,True
+506,Mona,52,0,83875.96,2021-06-02,Excellent,False,True
+507,Tina,22,0,35180.39,2015-10-25,Detail-Oriented,True,False
+508,Kathy,50,2,56654.48,2022-07-25,Great Team Player,True,False
+509,Mona,31,0,35917.66,2020-03-17,Diligent,False,True
+510,Eve,39,0,67877.9,2024-11-03,Analytical,False,True
+511,Tina,43,1,54819.41,2015-01-16,Reliable,False,True
+512,Bob,59,1,44332.1,2022-03-17,Innovative,True,False
+513,Oscar,57,2,74879.55,2021-08-18,Reliable,False,True
+514,Paul,45,0,60098.8,2017-11-03,Motivated,False,True
+515,Tina,26,2,106248.85,2019-04-15,Creative,False,True
+516,Oscar,34,2,91306.67,2021-12-04,Punctual,False,True
+517,Bob,46,1,76221.93,2021-11-12,Passionate,False,True
+518,Jack,43,0,62557.32,2021-06-30,Consistent,True,False
+519,Rachel,45,0,91401.01,2015-05-16,Consistent,False,True
+520,Frank,58,2,30305.81,2018-10-19,Passionate,False,True
+521,Quincy,51,1,87371.7,2015-11-14,Versatile,True,False
+522,Ivy,31,0,94855.87,2018-01-07,Curious,True,False
+523,Frank,58,0,98848.99,2022-01-14,Diligent,False,True
+524,Eve,49,1,37105.08,2015-01-30,Diligent,True,False
+525,Grace,40,0,91993.82,2016-08-10,Consistent,True,False
+526,Kathy,47,1,37562.6,2015-03-02,Innovative,True,False
+527,Oscar,21,2,39099.68,2024-06-12,Enthusiastic,False,True
+528,David,43,1,72114.03,2022-06-12,Fast Learner,False,True
+529,Alice,37,2,101456.65,2020-11-24,Detail-Oriented,False,True
+530,Mona,26,0,68288.65,2016-01-23,Diligent,False,True
+531,Nancy,22,0,67071.78,2024-05-07,Consistent,False,True
+532,Kathy,24,1,46593.79,2016-09-05,Excellent,True,False
+533,Oscar,26,1,80735.56,2021-08-31,Passionate,True,False
+534,Eve,21,1,83958.98,2017-05-21,Excellent,True,False
+535,Bob,32,1,113372.32,2023-03-26,Logical,False,True
+536,Eve,22,0,82030.87,2023-02-12,Creative,True,False
+537,Steve,55,0,77204.77,2015-02-02,Excellent,True,False
+538,Paul,48,2,37429.39,2016-03-18,Dedicated,False,True
+539,Paul,53,2,41535.59,2021-12-01,Curious,True,False
+540,Bob,38,0,98644.37,2024-08-20,Passionate,False,True
+541,Nancy,36,1,107096.95,2023-06-10,Curious,True,False
+542,Bob,29,0,101907.36,2024-06-08,Needs Improvement,True,False
+543,Jack,39,2,80880.51,2021-08-01,Punctual,False,True
+544,David,49,1,113217.23,2023-10-17,Needs Improvement,False,True
+545,Bob,25,2,80626.82,2015-09-20,Punctual,False,True
+546,Eve,38,1,115895.0,2016-11-08,Punctual,True,False
+547,Mona,48,1,64557.52,2020-02-27,Punctual,True,False
+548,Charlie,31,1,78920.41,2023-10-18,Versatile,True,False
+549,Eve,38,1,73632.88,2024-08-27,Great Team Player,True,False
+550,Frank,46,2,44002.75,2015-08-26,Consistent,False,True
+551,Alice,56,2,80689.19,2015-08-31,Excellent,False,True
+552,Kathy,28,0,77928.45,2024-04-15,Fast Learner,True,False
+553,Kathy,51,1,75383.4,2017-11-29,Detail-Oriented,False,True
+554,Leo,56,1,40414.97,2021-05-30,Hardworking,False,True
+555,Rachel,26,0,34262.47,2017-11-10,Punctual,False,True
+556,Kathy,47,1,84888.85,2023-07-07,Excellent,False,True
+557,Steve,24,1,43136.82,2021-09-09,Hardworking,True,False
+558,Quincy,48,2,68802.69,2016-06-23,Curious,True,False
+559,Rachel,40,1,32160.29,2021-02-25,Needs Improvement,True,False
+560,Hannah,39,0,98793.39,2024-07-13,Great Team Player,True,False
+561,David,50,0,63359.63,2023-01-21,Innovative,False,True
+562,Paul,46,2,105845.98,2021-09-17,Logical,False,True
+563,Alice,54,1,112098.46,2019-09-01,Logical,False,True
+564,Tina,35,0,39129.4,2022-03-07,Analytical,False,True
+565,Frank,38,2,73296.94,2020-02-25,Great Team Player,False,True
+566,Frank,60,1,56096.48,2017-01-31,Curious,True,False
+567,Grace,37,0,30536.99,2020-03-24,Analytical,False,True
+568,Grace,46,1,40896.89,2017-08-18,Detail-Oriented,True,False
+569,Mona,28,0,83543.6,2018-05-29,Punctual,True,False
+570,Hannah,44,2,56812.66,2016-03-13,Diligent,True,False
+571,Ivy,23,2,106486.75,2016-01-19,Punctual,False,True
+572,Leo,41,2,108958.5,2020-05-27,Reliable,False,True
+573,Nancy,38,0,94565.16,2021-12-11,Great Team Player,False,True
+574,Bob,34,2,55528.28,2016-01-10,Dedicated,False,True
+575,Ivy,60,1,51654.87,2019-04-04,Diligent,False,True
+576,Frank,27,0,43301.04,2019-10-15,Curious,False,True
+577,Mona,50,1,63902.17,2018-03-05,Great Team Player,False,True
+578,Jack,45,2,47363.8,2017-06-25,Motivated,True,False
+579,Bob,25,0,111830.63,2018-01-31,Motivated,False,True
+580,Leo,51,0,42167.73,2022-07-14,Needs Improvement,False,True
+581,Eve,29,0,82736.28,2015-05-04,Versatile,False,True
+582,Hannah,50,2,94728.63,2023-09-20,Consistent,True,False
+583,Grace,52,0,118727.52,2021-02-01,Needs Improvement,True,False
+584,Alice,56,2,79677.8,2016-03-09,Curious,True,False
+585,Jack,39,1,32369.28,2018-04-15,Diligent,True,False
+586,Tina,38,0,94918.76,2024-07-01,Enthusiastic,False,True
+587,Quincy,52,2,119589.99,2018-07-12,Versatile,False,True
+588,Steve,37,0,102262.64,2019-06-29,Analytical,False,True
+589,Oscar,46,2,49792.47,2024-02-10,Creative,True,False
+590,Frank,26,0,72675.81,2021-12-17,Analytical,False,True
+591,Steve,44,1,62045.05,2022-05-18,Diligent,True,False
+592,Tina,28,2,85956.6,2015-02-17,Great Team Player,False,True
+593,Jack,49,0,94036.86,2015-10-16,Punctual,False,True
+594,Alice,41,1,54281.29,2018-06-03,Logical,False,True
+595,Frank,20,1,70147.3,2015-06-11,Innovative,False,True
+596,Grace,60,2,112264.1,2022-02-25,Reliable,False,True
+597,Charlie,38,1,85339.86,2019-02-13,Excellent,True,False
+598,Mona,37,2,44770.97,2024-05-29,Punctual,True,False
+599,Quincy,53,2,117094.78,2017-01-24,Fast Learner,True,False
+600,Ivy,27,2,77172.09,2023-06-07,Excellent,True,False
+601,Frank,37,0,109314.58,2020-12-20,Hardworking,True,False
+602,David,52,0,32502.18,2022-11-22,Curious,True,False
+603,Frank,37,1,108938.32,2019-09-29,Fast Learner,False,True
+604,Quincy,24,0,71905.86,2018-08-18,Reliable,False,True
+605,Ivy,27,2,43968.25,2022-02-11,Consistent,True,False
+606,Leo,46,2,72290.66,2023-06-01,Hardworking,False,True
+607,Paul,31,2,39106.36,2020-05-09,Versatile,True,False
+608,Oscar,59,0,65168.74,2018-12-18,Reliable,False,True
+609,Nancy,32,2,44964.88,2021-02-11,Reliable,True,False
+610,Hannah,30,2,50331.56,2023-02-26,Detail-Oriented,True,False
+611,Ivy,56,2,54123.77,2024-03-13,Diligent,True,False
+612,Charlie,45,0,92122.0,2019-12-26,Needs Improvement,False,True
+613,Steve,31,2,96780.06,2020-12-20,Hardworking,False,True
+614,Hannah,23,1,97537.36,2015-10-01,Passionate,True,False
+615,Rachel,43,0,112498.63,2015-03-03,Logical,True,False
+616,Bob,29,2,102586.54,2021-12-15,Enthusiastic,True,False
+617,Alice,20,1,37953.15,2023-05-15,Innovative,False,True
+618,Jack,44,2,31191.29,2018-03-08,Detail-Oriented,True,False
+619,Hannah,42,0,97787.72,2024-08-13,Consistent,False,True
+620,Steve,56,2,96620.4,2019-09-09,Curious,False,True
+621,Bob,58,0,60784.75,2020-07-26,Diligent,False,True
+622,Bob,54,0,36877.47,2017-12-02,Excellent,True,False
+623,Tina,32,2,69379.07,2016-07-16,Logical,True,False
+624,Steve,57,0,46447.25,2015-04-09,Innovative,True,False
+625,Quincy,33,1,116385.08,2022-11-12,Analytical,False,True
+626,Steve,60,0,111251.34,2024-08-17,Excellent,True,False
+627,Paul,52,0,111189.78,2019-03-15,Great Team Player,True,False
+628,Leo,55,1,80213.61,2020-08-15,Diligent,False,True
+629,Quincy,60,2,88942.34,2015-06-10,Fast Learner,False,True
+630,Rachel,49,2,45346.38,2019-05-14,Reliable,False,True
+631,David,60,0,31303.04,2021-10-17,Great Team Player,True,False
+632,Tina,30,0,113899.27,2015-10-08,Great Team Player,True,False
+633,Oscar,38,0,84234.67,2017-03-16,Passionate,True,False
+634,Kathy,29,1,48300.82,2020-08-03,Detail-Oriented,False,True
+635,Grace,46,1,91687.84,2017-07-30,Analytical,True,False
+636,Hannah,59,1,39887.61,2020-05-25,Hardworking,True,False
+637,Tina,53,1,40795.81,2024-08-01,Hardworking,False,True
+638,Leo,50,0,88628.99,2016-08-18,Passionate,False,True
+639,Alice,45,0,50403.58,2018-12-30,Fast Learner,False,True
+640,Frank,54,1,64420.79,2016-03-14,Versatile,False,True
+641,Alice,44,2,97274.29,2023-04-28,Hardworking,True,False
+642,Steve,32,2,115198.14,2022-04-08,Dedicated,False,True
+643,Nancy,53,1,85901.66,2018-07-13,Consistent,True,False
+644,Eve,41,1,68273.79,2020-02-28,Curious,True,False
+645,Nancy,50,1,37388.98,2016-07-13,Diligent,False,True
+646,Jack,22,2,76176.41,2019-03-24,Punctual,True,False
+647,Tina,41,0,98927.67,2020-10-10,Motivated,False,True
+648,Charlie,34,1,65101.06,2020-03-13,Hardworking,True,False
+649,Hannah,28,2,82036.16,2023-09-13,Creative,True,False
+650,Nancy,58,2,94858.51,2022-08-03,Hardworking,False,True
+651,Leo,38,2,117103.06,2015-07-06,Great Team Player,False,True
+652,Leo,51,0,104813.14,2021-12-30,Logical,False,True
+653,Alice,34,0,33115.55,2024-06-04,Hardworking,False,True
+654,Kathy,44,1,51264.62,2021-12-28,Dedicated,True,False
+655,Rachel,40,0,63209.7,2015-01-12,Consistent,True,False
+656,Paul,38,2,106775.81,2018-12-06,Curious,True,False
+657,Hannah,50,0,103772.33,2018-11-01,Curious,True,False
+658,Ivy,24,2,92427.93,2022-07-25,Detail-Oriented,True,False
+659,Nancy,24,1,102416.39,2018-07-18,Innovative,True,False
+660,Leo,31,1,116144.73,2017-07-08,Great Team Player,False,True
+661,Leo,49,2,59027.76,2019-04-15,Innovative,False,True
+662,Paul,51,1,114107.72,2016-09-30,Great Team Player,True,False
+663,Hannah,44,1,103108.63,2021-02-20,Passionate,True,False
+664,Jack,57,1,37731.73,2017-11-25,Reliable,False,True
+665,Charlie,47,0,30850.39,2019-07-31,Dedicated,False,True
+666,Bob,54,2,105004.48,2022-10-29,Versatile,False,True
+667,Paul,26,1,116339.37,2018-01-11,Excellent,True,False
+668,Eve,27,2,105656.03,2020-03-18,Logical,True,False
+669,Quincy,36,2,75890.17,2015-01-31,Analytical,False,True
+670,Frank,42,0,59990.86,2020-09-30,Detail-Oriented,False,True
+671,Paul,28,1,36329.12,2020-09-26,Fast Learner,True,False
+672,Bob,41,1,48132.86,2024-09-14,Diligent,True,False
+673,Quincy,29,1,106917.86,2021-07-22,Passionate,True,False
+674,Steve,38,1,109565.07,2017-05-18,Great Team Player,True,False
+675,Tina,32,0,78509.21,2016-11-12,Analytical,True,False
+676,Kathy,29,2,90650.57,2024-08-18,Hardworking,False,True
+677,Tina,41,1,92055.63,2017-12-15,Innovative,False,True
+678,Jack,56,0,85984.7,2017-02-10,Excellent,True,False
+679,Ivy,45,2,86628.08,2021-10-26,Creative,True,False
+680,Quincy,52,1,86228.08,2019-08-21,Reliable,False,True
+681,Steve,59,2,116127.32,2018-11-12,Fast Learner,True,False
+682,Steve,22,0,113931.99,2019-03-16,Reliable,False,True
+683,Mona,38,0,79930.08,2022-02-21,Excellent,False,True
+684,Eve,31,0,66591.37,2017-05-21,Curious,True,False
+685,Oscar,41,0,49211.91,2015-03-27,Versatile,False,True
+686,Steve,52,0,78721.76,2016-08-07,Detail-Oriented,True,False
+687,Ivy,33,1,111441.25,2019-08-07,Logical,False,True
+688,Leo,29,0,101256.17,2016-09-07,Detail-Oriented,True,False
+689,Charlie,49,2,75876.47,2020-12-19,Logical,False,True
+690,Tina,33,0,59357.95,2018-01-02,Creative,False,True
+691,Ivy,43,1,33988.84,2018-09-06,Reliable,True,False
+692,Rachel,40,0,48576.38,2018-09-14,Logical,False,True
+693,Alice,50,1,41830.39,2015-08-31,Detail-Oriented,True,False
+694,Leo,29,1,108571.78,2023-01-28,Great Team Player,False,True
+695,Grace,60,1,87674.65,2016-07-15,Enthusiastic,True,False
+696,Bob,29,1,75398.8,2015-03-30,Dedicated,True,False
+697,Paul,50,2,51070.36,2020-08-22,Consistent,False,True
+698,Paul,59,0,40978.73,2017-02-03,Motivated,False,True
+699,Frank,25,2,73815.28,2023-07-26,Motivated,False,True
+700,Kathy,56,2,101844.12,2017-08-15,Great Team Player,True,False
+701,Bob,34,0,118043.69,2015-12-07,Diligent,False,True
+702,Steve,44,2,35066.13,2016-06-03,Dedicated,False,True
+703,Hannah,38,0,39431.42,2018-10-03,Dedicated,False,True
+704,Hannah,43,2,119683.93,2017-01-30,Motivated,True,False
+705,Tina,46,2,68669.59,2016-04-02,Diligent,True,False
+706,Kathy,33,0,79108.4,2021-06-13,Great Team Player,False,True
+707,Hannah,46,0,68952.9,2022-01-26,Innovative,False,True
+708,Charlie,56,2,117280.79,2018-07-06,Punctual,False,True
+709,Hannah,39,1,91804.0,2020-11-10,Consistent,True,False
+710,David,23,1,94316.1,2017-08-01,Dedicated,False,True
+711,Frank,25,0,114297.11,2018-01-14,Fast Learner,False,True
+712,Charlie,59,2,31030.28,2017-11-21,Logical,False,True
+713,Eve,53,1,64596.18,2018-12-20,Logical,False,True
+714,Paul,57,2,46681.89,2023-06-21,Consistent,False,True
+715,Rachel,60,2,54115.12,2017-08-14,Punctual,True,False
+716,Rachel,59,0,37177.18,2021-07-27,Versatile,True,False
+717,Rachel,24,2,45322.58,2024-04-24,Detail-Oriented,False,True
+718,Hannah,23,0,71031.79,2022-03-21,Versatile,True,False
+719,Grace,46,2,79083.27,2019-09-18,Fast Learner,False,True
+720,Hannah,31,0,68849.29,2023-04-25,Enthusiastic,True,False
+721,Charlie,53,1,117136.11,2022-08-15,Enthusiastic,False,True
+722,Kathy,28,2,92900.65,2019-10-23,Consistent,False,True
+723,Rachel,30,0,38330.46,2015-05-20,Hardworking,False,True
+724,Hannah,29,0,55883.61,2019-06-12,Creative,False,True
+725,Nancy,52,1,102712.14,2020-01-19,Analytical,False,True
+726,Paul,39,1,73125.12,2015-02-16,Enthusiastic,False,True
+727,Eve,55,1,73679.97,2016-11-30,Reliable,False,True
+728,Leo,58,1,50152.37,2017-10-02,Dedicated,False,True
+729,Leo,29,1,35789.77,2020-02-29,Enthusiastic,True,False
+730,Paul,57,2,79775.82,2024-03-11,Curious,False,True
+731,Grace,31,0,77207.21,2015-02-11,Great Team Player,False,True
+732,Grace,32,0,69054.64,2021-07-17,Consistent,True,False
+733,Eve,58,1,71442.55,2021-07-08,Enthusiastic,False,True
+734,Jack,29,0,79227.16,2022-06-25,Dedicated,True,False
+735,Kathy,54,0,75163.66,2020-12-30,Motivated,False,True
+736,Kathy,38,2,69176.36,2022-09-19,Analytical,True,False
+737,Oscar,25,0,87392.0,2018-07-22,Fast Learner,True,False
+738,Grace,44,1,37280.35,2017-08-24,Great Team Player,True,False
+739,Paul,32,1,53087.84,2018-08-08,Innovative,False,True
+740,Bob,39,0,45576.11,2024-09-16,Hardworking,True,False
+741,Rachel,45,0,83597.43,2020-05-23,Diligent,False,True
+742,Leo,34,2,96168.72,2019-10-05,Analytical,False,True
+743,Frank,28,0,77911.04,2023-03-02,Analytical,False,True
+744,Ivy,58,1,103948.02,2017-06-14,Fast Learner,True,False
+745,Alice,28,1,74209.94,2020-05-24,Passionate,True,False
+746,David,44,2,32980.38,2016-03-27,Needs Improvement,False,True
+747,Alice,29,1,97331.66,2023-12-19,Logical,False,True
+748,Leo,29,2,32243.77,2020-08-01,Dedicated,False,True
+749,Charlie,33,2,95398.17,2018-12-27,Creative,False,True
+750,Frank,27,0,83173.25,2016-12-14,Passionate,False,True
+751,Eve,43,0,85355.87,2015-03-24,Curious,False,True
+752,Frank,47,1,70576.52,2022-11-05,Fast Learner,False,True
+753,Paul,37,1,114018.37,2017-11-01,Motivated,False,True
+754,Quincy,44,1,109415.82,2021-07-14,Fast Learner,True,False
+755,Grace,48,2,117589.58,2021-09-29,Enthusiastic,False,True
+756,Frank,20,0,31900.48,2020-11-16,Logical,False,True
+757,Paul,30,0,111076.13,2019-02-28,Logical,True,False
+758,Hannah,48,0,74415.14,2015-11-09,Needs Improvement,False,True
+759,Eve,40,0,110127.52,2021-08-21,Creative,True,False
+760,Eve,59,1,43871.3,2020-03-11,Dedicated,False,True
+761,Hannah,40,1,98897.56,2018-03-25,Creative,True,False
+762,Ivy,54,0,60400.63,2015-01-01,Analytical,False,True
+763,Mona,25,0,30353.42,2016-02-01,Hardworking,True,False
+764,Rachel,33,2,99191.37,2021-01-29,Diligent,True,False
+765,Frank,59,1,71485.96,2023-12-10,Hardworking,False,True
+766,Nancy,38,0,68638.42,2024-09-05,Versatile,True,False
+767,Oscar,40,0,78185.81,2017-09-07,Excellent,False,True
+768,Mona,57,0,63773.51,2024-09-27,Logical,False,True
+769,Kathy,31,1,100182.52,2024-10-22,Logical,True,False
+770,Grace,31,2,47444.1,2021-07-12,Versatile,True,False
+771,Oscar,47,0,117181.44,2018-07-07,Passionate,False,True
+772,Leo,44,0,38395.7,2017-11-16,Dedicated,True,False
+773,Jack,23,2,48173.25,2023-11-04,Excellent,True,False
+774,Grace,60,1,37346.06,2023-02-17,Versatile,True,False
+775,David,26,1,88506.36,2018-05-15,Curious,False,True
+776,Leo,56,1,31950.4,2016-08-15,Hardworking,True,False
+777,Steve,23,2,91880.44,2017-05-27,Consistent,True,False
+778,Alice,44,0,37211.42,2018-04-16,Punctual,True,False
+779,Eve,35,1,51331.42,2015-09-17,Detail-Oriented,True,False
+780,Kathy,50,0,38351.97,2015-02-21,Analytical,True,False
+781,Bob,28,2,85719.38,2019-01-04,Curious,False,True
+782,Mona,45,1,93088.34,2022-01-23,Great Team Player,False,True
+783,Grace,57,2,103999.41,2022-06-26,Analytical,False,True
+784,Steve,37,0,82383.9,2015-02-13,Diligent,False,True
+785,Quincy,30,1,72384.7,2024-03-26,Excellent,False,True
+786,Alice,55,1,62163.75,2023-04-15,Diligent,True,False
+787,Alice,50,0,49016.81,2018-01-18,Punctual,True,False
+788,Tina,29,0,38520.49,2019-12-10,Fast Learner,False,True
+789,Bob,28,1,67398.17,2022-04-15,Punctual,True,False
+790,Frank,41,1,30831.93,2016-02-08,Passionate,False,True
+791,Charlie,43,2,108034.78,2015-04-11,Analytical,True,False
+792,Bob,40,0,77893.56,2015-11-02,Detail-Oriented,False,True
+793,Bob,50,1,33297.86,2019-06-16,Fast Learner,False,True
+794,Quincy,36,0,39720.18,2018-11-20,Curious,False,True
+795,David,40,2,38187.28,2019-03-03,Versatile,False,True
+796,Mona,31,1,88467.77,2024-07-11,Great Team Player,False,True
+797,David,20,1,61600.85,2017-03-16,Innovative,True,False
+798,Jack,28,2,103258.57,2023-01-28,Consistent,True,False
+799,Charlie,48,1,77702.76,2019-03-27,Needs Improvement,True,False
+800,Kathy,35,2,62719.65,2021-06-18,Dedicated,False,True
+801,Kathy,42,2,78817.34,2017-11-04,Versatile,False,True
+802,Oscar,44,1,51983.04,2024-07-23,Innovative,False,True
+803,Charlie,44,0,98077.27,2020-09-21,Needs Improvement,True,False
+804,Alice,27,0,67568.04,2016-10-21,Analytical,True,False
+805,Rachel,20,0,40240.91,2015-05-02,Detail-Oriented,False,True
+806,Grace,59,1,111756.94,2017-01-04,Diligent,True,False
+807,Rachel,40,0,83372.83,2023-12-10,Enthusiastic,False,True
+808,Jack,55,1,40003.22,2022-04-23,Logical,True,False
+809,Hannah,45,2,73952.64,2015-08-26,Diligent,True,False
+810,Charlie,48,1,59195.72,2016-03-17,Needs Improvement,False,True
+811,Alice,25,0,107210.95,2018-07-30,Passionate,False,True
+812,Jack,40,2,42685.42,2022-09-13,Dedicated,False,True
+813,Rachel,47,0,86698.14,2021-12-20,Excellent,True,False
+814,Tina,47,1,75487.87,2023-10-26,Needs Improvement,True,False
+815,Frank,56,2,66943.22,2018-03-04,Curious,True,False
+816,Nancy,36,2,108236.16,2017-09-28,Great Team Player,True,False
+817,Bob,31,0,86015.89,2023-10-26,Diligent,False,True
+818,Mona,51,0,89744.34,2021-07-29,Detail-Oriented,True,False
+819,Charlie,46,0,35321.08,2024-03-05,Creative,True,False
+820,Nancy,40,2,53678.35,2017-03-02,Great Team Player,False,True
+821,Frank,58,0,83252.06,2021-05-30,Curious,False,True
+822,Bob,58,0,39546.76,2022-02-11,Punctual,False,True
+823,Frank,51,0,72733.83,2017-04-26,Great Team Player,True,False
+824,Leo,34,1,96022.15,2016-06-02,Detail-Oriented,False,True
+825,Charlie,37,0,32837.65,2023-04-02,Enthusiastic,True,False
+826,Nancy,59,0,102430.74,2024-07-20,Passionate,False,True
+827,Bob,22,2,91115.42,2018-08-20,Needs Improvement,True,False
+828,Leo,23,0,64685.57,2016-09-28,Curious,True,False
+829,Quincy,23,2,78466.9,2020-12-27,Versatile,True,False
+830,Grace,58,1,57375.94,2017-10-26,Logical,False,True
+831,Steve,52,2,107556.81,2016-02-27,Passionate,False,True
+832,Nancy,54,2,90078.9,2015-03-04,Diligent,True,False
+833,Hannah,46,0,115737.66,2020-10-05,Creative,False,True
+834,David,51,2,88165.11,2017-12-27,Analytical,True,False
+835,David,32,2,37193.02,2022-05-23,Creative,False,True
+836,David,27,2,31654.49,2023-10-11,Punctual,True,False
+837,Steve,36,1,71643.76,2023-12-31,Diligent,True,False
+838,Leo,37,2,82973.35,2017-01-20,Dedicated,False,True
+839,Mona,56,2,49074.38,2017-07-31,Motivated,False,True
+840,Ivy,51,1,100641.15,2019-07-24,Motivated,False,True
+841,Steve,25,1,104073.07,2017-09-25,Punctual,True,False
+842,Steve,39,0,85690.41,2020-05-24,Curious,False,True
+843,Ivy,58,0,106094.83,2018-05-12,Motivated,False,True
+844,Hannah,42,0,113776.93,2022-01-11,Detail-Oriented,False,True
+845,Charlie,51,1,45248.74,2015-08-14,Versatile,True,False
+846,Paul,55,1,58363.42,2020-05-05,Logical,True,False
+847,Kathy,20,1,97303.23,2018-09-22,Creative,True,False
+848,David,20,2,30225.83,2024-01-04,Punctual,False,True
+849,Jack,49,2,85456.74,2024-11-10,Logical,False,True
+850,Nancy,59,0,31989.46,2022-03-24,Needs Improvement,False,True
+851,Ivy,51,0,61202.44,2024-12-26,Curious,True,False
+852,Eve,25,2,92481.84,2017-04-04,Innovative,True,False
+853,Quincy,52,1,92461.57,2018-02-26,Fast Learner,True,False
+854,Steve,40,2,75933.15,2020-07-17,Versatile,True,False
+855,David,26,2,41383.74,2023-07-30,Fast Learner,True,False
+856,Nancy,34,2,111688.72,2018-03-25,Curious,True,False
+857,Quincy,56,0,64719.42,2022-09-25,Excellent,True,False
+858,David,39,2,45858.52,2024-07-12,Innovative,False,True
+859,Grace,57,0,67167.05,2015-04-13,Motivated,True,False
+860,Charlie,26,0,48704.15,2016-02-18,Enthusiastic,True,False
+861,Ivy,50,0,64284.07,2022-08-26,Innovative,True,False
+862,Charlie,20,1,68482.75,2017-11-22,Creative,False,True
+863,Alice,26,1,35256.87,2017-11-19,Fast Learner,True,False
+864,Bob,29,0,68063.74,2015-05-08,Excellent,True,False
+865,Grace,39,2,63756.49,2020-01-29,Punctual,True,False
+866,Bob,52,2,99623.01,2016-03-20,Needs Improvement,False,True
+867,Leo,55,0,49636.63,2024-03-11,Enthusiastic,False,True
+868,Grace,28,2,107374.2,2018-04-24,Hardworking,False,True
+869,Steve,30,0,87005.86,2020-02-15,Analytical,False,True
+870,Frank,30,0,31614.05,2018-12-29,Creative,True,False
+871,Quincy,47,2,118745.05,2020-04-23,Detail-Oriented,False,True
+872,Bob,24,2,103482.39,2016-12-26,Punctual,True,False
+873,Nancy,42,0,45442.31,2018-03-03,Diligent,True,False
+874,Ivy,43,0,86243.14,2024-03-12,Enthusiastic,False,True
+875,Bob,31,2,86154.88,2022-12-12,Passionate,True,False
+876,Oscar,58,0,116351.94,2018-04-29,Great Team Player,True,False
+877,Jack,52,0,35674.44,2024-04-01,Curious,True,False
+878,Kathy,22,2,75869.69,2020-06-17,Dedicated,False,True
+879,Leo,34,2,114081.14,2018-11-26,Needs Improvement,True,False
+880,David,55,1,72716.41,2018-03-05,Fast Learner,True,False
+881,Quincy,35,0,66054.08,2022-04-21,Logical,True,False
+882,Eve,22,0,91794.6,2018-01-13,Hardworking,True,False
+883,Charlie,23,0,101998.07,2016-10-11,Needs Improvement,True,False
+884,Leo,37,0,111717.09,2019-12-18,Logical,True,False
+885,Frank,33,1,67458.83,2021-10-08,Diligent,True,False
+886,Mona,28,0,54088.06,2024-11-20,Curious,False,True
+887,Hannah,31,0,87420.4,2021-11-12,Hardworking,True,False
+888,Steve,38,1,113925.34,2018-08-13,Enthusiastic,False,True
+889,David,38,2,118875.0,2023-06-16,Punctual,False,True
+890,Grace,26,0,100220.13,2020-08-21,Hardworking,True,False
+891,Kathy,50,0,52205.69,2024-05-16,Consistent,True,False
+892,Eve,54,0,114596.02,2021-11-12,Diligent,False,True
+893,Frank,46,2,76069.83,2024-09-14,Dedicated,True,False
+894,Paul,49,0,63889.97,2019-11-23,Excellent,False,True
+895,Rachel,33,1,92318.33,2016-03-16,Innovative,True,False
+896,Tina,23,0,101946.86,2017-10-01,Diligent,True,False
+897,Kathy,54,2,38549.17,2019-06-02,Logical,True,False
+898,Paul,34,2,93301.01,2023-12-24,Excellent,True,False
+899,Leo,35,0,61291.37,2019-02-13,Passionate,True,False
+900,Leo,53,1,113189.87,2024-01-10,Analytical,True,False
+901,Mona,55,2,36056.47,2023-07-06,Logical,True,False
+902,Ivy,52,0,66473.77,2024-07-07,Reliable,False,True
+903,Bob,40,2,100541.46,2016-02-23,Analytical,False,True
+904,Eve,53,0,114628.4,2018-06-08,Consistent,True,False
+905,David,54,2,61796.56,2022-12-28,Detail-Oriented,True,False
+906,Paul,51,1,51668.07,2020-07-29,Punctual,False,True
+907,Nancy,58,1,67640.3,2017-09-17,Great Team Player,True,False
+908,David,45,0,84429.72,2019-01-16,Creative,False,True
+909,Nancy,37,1,117608.51,2015-12-02,Logical,True,False
+910,Jack,44,0,54346.03,2017-05-17,Logical,True,False
+911,Mona,53,1,70315.49,2020-09-29,Reliable,True,False
+912,David,43,2,67032.87,2024-11-29,Reliable,True,False
+913,Ivy,31,0,100376.75,2015-02-10,Innovative,False,True
+914,Jack,25,2,75966.32,2016-02-29,Creative,True,False
+915,Bob,22,2,99432.94,2020-12-23,Punctual,True,False
+916,Steve,25,1,116677.44,2021-02-14,Enthusiastic,True,False
+917,Frank,30,1,42731.35,2023-04-09,Passionate,True,False
+918,Bob,51,0,90273.93,2024-01-18,Dedicated,False,True
+919,Hannah,56,1,82944.53,2017-03-07,Detail-Oriented,True,False
+920,Nancy,20,0,71129.82,2015-07-18,Motivated,True,False
+921,Jack,60,0,52450.53,2017-04-25,Reliable,False,True
+922,Rachel,56,2,97081.85,2024-04-13,Logical,True,False
+923,Mona,48,1,86359.23,2015-01-31,Innovative,True,False
+924,Paul,54,1,61212.24,2021-09-11,Consistent,False,True
+925,Charlie,55,1,57928.69,2019-08-19,Innovative,True,False
+926,Alice,31,2,58032.49,2021-08-31,Excellent,False,True
+927,Eve,40,1,56897.26,2018-09-13,Consistent,False,True
+928,Tina,31,1,83048.7,2015-07-18,Reliable,True,False
+929,Steve,51,1,70845.37,2024-02-25,Analytical,False,True
+930,Leo,52,1,48485.88,2020-09-13,Fast Learner,False,True
+931,Jack,45,0,51548.52,2019-10-01,Hardworking,True,False
+932,Ivy,26,2,96457.19,2018-03-26,Passionate,False,True
+933,Leo,27,0,55474.31,2015-02-10,Innovative,False,True
+934,Oscar,56,2,45259.72,2017-09-25,Hardworking,False,True
+935,Charlie,27,1,37761.24,2024-12-21,Curious,False,True
+936,Jack,40,1,113126.03,2021-02-20,Passionate,False,True
+937,Charlie,36,2,37042.6,2019-10-24,Logical,True,False
+938,Quincy,45,0,94894.61,2015-02-10,Hardworking,False,True
+939,Kathy,60,2,63534.75,2020-01-10,Dedicated,True,False
+940,Ivy,50,1,90361.26,2024-07-12,Enthusiastic,False,True
+941,Grace,60,0,72038.33,2015-10-07,Analytical,True,False
+942,Quincy,36,0,64746.13,2019-12-20,Fast Learner,False,True
+943,Tina,43,1,49442.55,2021-05-03,Enthusiastic,True,False
+944,Hannah,49,0,45670.98,2016-11-12,Motivated,True,False
+945,Steve,28,2,81313.24,2016-02-12,Hardworking,False,True
+946,Leo,26,1,93461.01,2020-01-17,Excellent,True,False
+947,Grace,56,1,40394.81,2020-01-21,Versatile,False,True
+948,Eve,45,0,79011.8,2020-05-24,Hardworking,True,False
+949,Hannah,32,0,104589.31,2022-03-18,Excellent,False,True
+950,Grace,41,2,66241.21,2021-05-26,Logical,True,False
+951,Leo,33,1,78497.09,2016-09-24,Diligent,False,True
+952,Jack,31,1,100346.95,2016-11-15,Analytical,False,True
+953,Eve,44,0,93385.45,2017-03-27,Consistent,True,False
+954,Kathy,46,2,83822.68,2024-10-21,Analytical,True,False
+955,David,26,2,91146.11,2023-09-03,Needs Improvement,True,False
+956,Grace,41,0,42330.77,2023-03-02,Diligent,False,True
+957,Paul,26,1,33684.96,2018-08-22,Enthusiastic,False,True
+958,Hannah,44,1,46978.68,2023-11-24,Versatile,False,True
+959,Paul,42,2,116454.06,2023-02-15,Motivated,False,True
+960,Nancy,47,2,50270.71,2022-09-27,Curious,True,False
+961,Mona,55,2,116192.78,2016-10-17,Dedicated,False,True
+962,Alice,44,1,48597.51,2017-09-16,Motivated,False,True
+963,Jack,36,1,82157.38,2024-12-22,Great Team Player,True,False
+964,Tina,54,1,117693.52,2021-04-21,Excellent,False,True
+965,Hannah,30,0,67807.38,2017-03-21,Detail-Oriented,False,True
+966,Grace,21,1,33544.52,2018-11-22,Diligent,False,True
+967,Tina,56,0,39133.96,2018-04-29,Diligent,False,True
+968,Oscar,45,1,82829.84,2016-08-27,Consistent,False,True
+969,Bob,53,1,48218.64,2024-10-03,Reliable,True,False
+970,Kathy,26,2,60099.39,2020-06-11,Fast Learner,False,True
+971,Mona,33,2,33211.36,2021-01-18,Detail-Oriented,False,True
+972,Mona,43,0,58578.2,2023-05-28,Great Team Player,True,False
+973,Hannah,44,2,115391.16,2023-02-19,Hardworking,True,False
+974,Quincy,52,0,96242.06,2023-01-09,Analytical,False,True
+975,David,24,1,99627.73,2018-07-25,Curious,True,False
+976,Tina,51,1,31351.29,2016-11-13,Reliable,True,False
+977,Tina,31,0,70020.12,2020-04-21,Consistent,True,False
+978,Bob,46,0,114938.92,2024-01-11,Consistent,False,True
+979,Steve,49,0,43150.75,2020-12-19,Creative,True,False
+980,Mona,41,2,75675.61,2024-12-17,Logical,True,False
+981,Rachel,26,1,92849.81,2017-01-11,Reliable,False,True
+982,Quincy,56,1,98108.02,2017-10-23,Logical,False,True
+983,Paul,54,1,94056.93,2021-04-24,Logical,False,True
+984,Charlie,40,2,93125.48,2021-05-21,Dedicated,True,False
+985,Nancy,25,0,103741.14,2020-05-06,Curious,True,False
+986,Bob,54,2,110694.34,2018-05-26,Passionate,True,False
+987,Frank,35,1,117459.08,2018-02-08,Dedicated,True,False
+988,Grace,57,0,115890.53,2018-06-15,Great Team Player,False,True
+989,Tina,26,0,46400.8,2021-08-24,Innovative,True,False
+990,Hannah,55,1,71094.91,2023-01-13,Punctual,True,False
+991,Kathy,57,1,49940.91,2015-01-24,Detail-Oriented,True,False
+992,Hannah,20,2,103387.57,2015-03-30,Analytical,True,False
+993,Kathy,25,1,119009.44,2019-06-25,Analytical,False,True
+994,Kathy,26,1,45138.01,2020-10-28,Passionate,True,False
+995,Bob,57,2,36669.02,2015-11-19,Reliable,True,False
+996,Jack,58,1,34288.04,2020-01-18,Reliable,False,True
+997,Jack,46,2,97404.78,2023-11-22,Innovative,False,True
+998,Kathy,53,1,51242.03,2023-05-30,Enthusiastic,False,True
+999,Mona,48,2,34117.08,2017-08-15,Motivated,False,True
+1000,Rachel,45,0,43198.5,2015-12-02,Dedicated,False,True
